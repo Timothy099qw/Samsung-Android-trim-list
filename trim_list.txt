@@ -1,0 +1,113 @@
+
+Show all packages (PS): .\adb shell pm list package
+_________________(CMD): adb shell pm list package
+Run .\adb shell before trimming
+
+****************************************
+pm uninstall -k --user 0
+****************************************
+
+com.google.android.youtube
+com.samsung.android.bixby.wakeup
+com.samsung.android.smartmirroring
+com.samsung.android.smartsuggestions
+com.samsung.android.app.settings.bixby
+com.samsung.android.svoiceime
+com.samsung.android.kidsinstaller
+com.sec.android.app.sbrowser
+com.samsung.android.app.spage
+com.samsung.android.app.omcagent
+com.samsung.android.service.peoplestripe
+com.microsoft.skydrive
+com.samsung.android.app.routines
+com.touchtype.swiftkey
+com.swiftkey.swiftkeyconfigurator
+com.google.android.apps.tachyon
+com.samsung.android.mdx
+com.microsoft.appmanager
+com.samsung.android.mobileservice
+com.samsung.android.game.gamehome
+com.samsung.android.game.gos
+com.samsung.android.game.gametools
+com.samsung.android.forest
+com.google.ar.core
+com.samsung.android.arzone
+com.sec.android.mimage.avatarstickers
+com.samsung.android.aremojieditor
+com.samsung.android.aremoji
+com.samsung.android.ardrawing
+com.samsung.android.ipsgeofence
+com.samsung.android.mapsagent
+com.samsung.android.app.appsedge
+com.google.android.healthconnect.controller
+com.samsung.android.app.taskedge
+com.sec.android.app.quicktool
+
+
+
+
+***************
+Samsung wearable manager installer: 			com.samsung.android.app.watchmanagerstub
+Samsung smart switch agent: 				com.sec.android.easyMover.Agent
+Samsung smart switch: 					com.sec.android.easyMover
+Samsung keyboard: 					com.samsung.android.honeyboard
+Samsung live transcrible and sound notifications: 	com.google.audio.hearing.visualization.accessibility.scribe
+Samsung gallery stories: 				com.samsung.storyservice
+Samsung themes service (in-app purchase): 		com.samsung.android.themecenter
+Samsung themes: 					com.samsung.android.themestore
+Samsung find my mobile: 				com.samsung.android.fmm
+Samsung account customisation service (targeted ads): 	com.samsung.android.rubin.app
+Samsung clipboard edge: 				com.samsung.android.app.clipboardedge
+Samsung bixbyvision framework: 				com.samsung.android.bixbyvision.framework
+Samsung bixby voice: 					com.samsung.android.bixby.agent
+Samsung bixby vision: 					com.samsung.android.visionintelligence
+Samsung gallary auto doodle (change the race): 		com.sec.android.autodoodle.service
+Samsung smart things: 					com.samsung.android.beaconmanager
+Samsung smart things framework: 			com.samsung.android.service.stplatform
+Samsung edgepanels: 					com.samsung.android.app.cocktailbarservice
+
+Samsung video editing assets:				com.sec.android.app.ve.vebgm
+Samsung photo editor:					com.sec.android.mimage.photoretouching
+Samsung video editor lite:				com.samsung.app.newtrim
+Samsung studio (videos):				com.sec.android.app.vepreload
+Samsung portrait:					com.samsung.android.app.dofviewer
+
+Samsung user manual:					com.sec.android.widgetapp.webmanual
+Samsung video call effects: 				com.samsung.android.vtcamerasettings
+
+Android voice access:					com.google.android.apps.accessibility.voiceaccess
+
+**************
+Samsung password autofill:				com.samsung.android.samsungpassautofill
+Samsung account:					com.osp.app.signin
+Samsung blockchain keystore:				com.samsung.android.coldwalletservice
+Samsung checkout:					com.sec.android.app.billing
+Samsung cloud:						com.samsung.android.scloud
+Samsung cloud assistant:				com.samsung.android.scpm
+Samsung pass:						com.samsung.android.samsungpass
+Samsung pay framework: 					com.samsung.android.spayfw
+Samsung wallet key:					com.samsung.android.dkey
+Samsung digital key framework: 				com.samsung.android.carkey
+
+Samsung sticker center:					com.samsung.android.stickercenter
+
+***********************
+Google messages: 					com.google.android.apps.messaging
+Google app:						com.google.android.googlequicksearchbox
+Google assistant (hot word):				com.android.hotwordenrollment.xgoogle
+Google assistant (ok):					com.android.hotwordenrollment.okgoogle
+
+
+***********test
+Samsung media output (quickboard):			com.samsung.android.mdx.quickboard
+Samsung core services: 					com.samsung.android.scs
+***********
+Samsung nearby service:					com.samsung.android.allshare.service.mediashare
+Samsung nearby share:					com.samsung.android.easysetup
+Samsung quick share:					com.samsung.android.app.sharelive
+Samsung quick share agent:				com.samsung.android.aware.service
+Samsung quick share connectivity:			com.samsung.android.mdx.kit
+Samsung input share multi control:			com.samsung.android.inputshare
+Samsung messages:					com.samsung.android.messaging
+Samsung message config:					com.wsomacp
+
